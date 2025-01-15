@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋🏻 Hi there, I'm Alberto Pisaroni!
 
-<!--
-**albertopisaroni/albertopisaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design, build, and launch new businesses alongside talented entrepreneurs across various sectors. My mission is to create innovations, that positively impact the planet and improve people's lives. 
 
-Here are some ideas to get you started:
+## 🛠️ **Skills**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Fullstack Development
+- **Frontend**: HTML5, JavaScript  
+  *(jQuery, Alpine.js, Electron.js, Three.js, Anime.js, Vue.js, Nuxt.js)*
+- **Backend**: PHP, Python, C, C#, Bash  
+  *(Frameworks: CodeIgniter, Laravel)*
+- **Mobile**: Swift, Apache Cordova  *(iOS & Android)*
+- **Databases**: Microsoft SQL, MySQL, MariaDB, MongoDB, PostgreSQL
+
+### ✨ Systems Engineering
+- **Cloud**: AWS, Azure, Google Cloud  
+  *(Multi-region deployments, autoscaling, IAM, etc.)*
+- **Web & Mail Servers**: NGINX, Apache, Dovecot, Exim, Postfix  
+  *(Load balancing, advanced SSL/TLS, spam filtering, HA setups)*
+- **Security & Monitoring**: Advanced firewall rules, SpamAssassin, ClamAV  
+  *(Security hardening, WAF integration, DDoS protection)*
+
+
+## 📫 **Connect with Me**
+- GitHub: [albertopisaroni](https://github.com/albertopisaroni) *(Private repositories)*  
+- LinkedIn: [Alberto Pisaroni](https://www.linkedin.com/in/albertopisaroni/) *(Contact me here for any requests)*
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertopisaroni&theme=merko)
